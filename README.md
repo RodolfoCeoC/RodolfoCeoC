@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodolfoCeoC
 - 💻 I am a computer systems engineering student.
-- 👀 I’m interested in Ethical Hacking, to be more exact, in Pentesting. 
+- 👀 I’m interested in Cybersecurity, to be more exact, in Pentesting. 
 - 😎 Ethical hacking is not a crime
 
 <!---
